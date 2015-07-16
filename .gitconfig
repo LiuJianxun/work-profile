@@ -1,3 +1,6 @@
+[user]
+    name = LiuJianxun
+    email = 15071414515@163.com
 [merge]
     summary = true
     tool = vimdiff
